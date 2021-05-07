@@ -1,1 +1,6 @@
-This product contains historical time-series data of U.S. Census Bureau and U.S. Department of Housing and Urban Development, New Private Housing Units Authorized by Building Permits (PERMIT) retrieved from the Federal Reserve Bank of St. Louis Economic Data (FRED) at https://fred.stlouisfed.org/series/PERMIT. Data coverage starts from 1960-01-01. The unit of the data is Thousands of Units, and values are based on seasonally adjusted annual rate. The update frequency is monthly.
+### CC-EST2019-ALLDATA-[ST-FIPS]: Annual Total County Resident Population Estimates: April 1, 2010 to July 1, 2019
+
+Source: U.S. Census Bureau, Population Division
+Release Date: June 2020
+
+### For a description of the variables in the data set, please look at [File Layout](https://www2.census.gov/programs-surveys/popest/technical-documentation/file-layouts/2010-2019/co-est2019-alldata.pdf)
