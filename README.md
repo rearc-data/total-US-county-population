@@ -7,7 +7,7 @@
 You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting. 
 
 ## Main Overview
-This release provides information on Annual County Resident Population Estimates by Age, Sex, Race, and Hispanic Origin: April 1, 2010 to July 1, 2019. The data updates anually. Please visit the [U.S CENSUS BUREAU ](https://www.census.gov/data/tables/time-series/demo/popest/2010s-counties-total.html) for more information.
+This release provides information on Annual Estimates of Residential Population for Counties: April 1, 2010 to July 1, 2019. The data updates anually. Please visit the [U.S CENSUS BUREAU ](https://www.census.gov/data/tables/time-series/demo/popest/2010s-counties-total.html) for more information.
 #### Data Source
 This Data source is in the CSV format and the file contains its unique columns.
 ## More Information
