@@ -1,4 +1,4 @@
-### CC-EST2019-ALLDATA-[ST-FIPS]: Annual Total County Resident Population Estimates: April 1, 2010 to July 1, 2019
+### Annual Total County Resident Population Estimates: April 1, 2010 to July 1, 2019
 
 Source: U.S. Census Bureau, Population Division
 Release Date: June 2020
