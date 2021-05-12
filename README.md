@@ -4,7 +4,7 @@
 
 # Total US County Population
 
-You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting. 
+You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting (https://console.aws.amazon.com/dataexchange/home#/products/prodview-iyhr4a4f3wcek)
 
 ## Main Overview
 This release provides information on Annual Estimates of Residential Population for Counties: April 1, 2010 to July 1, 2019. The data updates anually. Please visit the [U.S CENSUS BUREAU ](https://www.census.gov/data/tables/time-series/demo/popest/2010s-counties-total.html) for more information.
